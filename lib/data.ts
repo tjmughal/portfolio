@@ -11,10 +11,9 @@ export const GENERAL_INFO = {
 };
 
 export const SOCIAL_LINKS = [
-    { name: 'github', url: 'https://github.com/tjmughal' },
-    { name: 'linkedin', url: 'https://www.linkedin.com/in/talha-mughal-93a97b178' },
-    { name: 'facebook', url: 'https://www.facebook.com/talha.mughal.901032' },
-    { name: 'Old Version', url: GENERAL_INFO.oldPortfolio },
+    { name: 'Github', url: 'https://github.com/tjmughal' },
+    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/talha-mughal-93a97b178' },
+    { name: 'Facebook', url: 'https://www.facebook.com/talha.mughal.901032' },
 ];
 
 export const MY_STACK = {
@@ -227,7 +226,7 @@ export const PROJECTS: IProject[] = [
             '/projects/images/akdoc-3.jpg',
             '/projects/images/akdoc-4.jpg',
         ],
-        liveUrl: 'https://aqltechsolutions.com/',
+        liveUrl: 'https://akdoc.com/',
         year: 2023,
         description: 'AKDoc is a healthcare facility based in Atlanta, USA. The client had an existing website but wanted to upgrade their online presence with a more professional, more' +
             ' user-friendly and better UI/UX based website. We developed their website to meet all the requirements and made them a satisfied client for all their future technology needs',
@@ -255,10 +254,24 @@ export const PROJECTS: IProject[] = [
             '/projects/images/the-tejori-2.png',
             '/projects/images/the-tejori-3.png',
         ],
-        liveUrl: 'https://aqltechsolutions.com/',
+        liveUrl: '#',
         year: 2023,
-        description: 'AKDoc is a healthcare facility based in Atlanta, USA. The client had an existing website but wanted to upgrade their online presence with a more professional, more' +
-            ' user-friendly and better UI/UX based website. We developed their website to meet all the requirements and made them a satisfied client for all their future technology needs',
+        description: 'The Tejori Marketplace is a unique platform designed to transform the way South Asian fashion is consumed and appreciated. As a peer-to-peer marketplace, ' +
+            'we provide a sustainable solution for buying and selling preloved South Asian outfits, ensuring these beautifully crafted garments get a second life. ' +
+            'Our mission is to break the cycle of waste by introducing a circular approach to fashion, making sustainability both accessible and glamorous. ' +
+            'In the UK’s South Asian community, traditional outfits hold deep cultural significance. However, they are often worn once for weddings, festivals, or celebrations and ' +
+            'then left unused. At The Tejori Marketplace, we offer a space where individuals can declutter their wardrobes, earn extra cash, and give others access to luxurious ' +
+            'brands and styles at a fraction of the price. This not only benefits buyers and sellers but also respects the craftsmanship and artistry that go into these garments. ' +
+            'Our platform is more than just a marketplace—it is a community. We believe in fostering connections between individuals who share a love for South Asian fashion, ' +
+            'sustainability, and conscious consumerism. By making it easier than ever to buy and sell high-quality outfits, we encourage people to embrace sustainable shopping while ' +
+            'celebrating their culture in a meaningful way. Sustainability is at the core of everything we do. Every outfit sold on our platform contributes to a more circular economy, ' +
+            'reducing textile waste and promoting eco-conscious fashion choices. We aim to redefine South Asian fashion by demonstrating that sustainability and style can go hand in hand. ' +
+            'Founded by Saika Waheed, The Tejori Marketplace is built on a personal connection to South Asian heritage and a passion for preserving the beauty of traditional craftsmanship. ' +
+            'Growing up, Saika witnessed firsthand how intricate, elegant garments would often sit in closets unused after a single event. She realized that this not only contributed to ' +
+            'fashion waste but also overlooked the immense skill and effort put into creating each piece. Through The Tejori Marketplace, she hopes to inspire a shift in mindset—one that values ' +
+            'sustainability while honoring the cultural significance of these outfits. Whether you are looking to refresh your wardrobe, find a stunning outfit for your next event, ' +
+            'or contribute to a more eco-friendly fashion industry, The Tejori Marketplace is the perfect place to start. Join us in redefining South Asian fashion, where sustainability meets ' +
+            'elegance, and every outfit tells a new story.',
         role: `As part of the Code Studio team, I:<br/>
         - Developed and customized the WordPress website from setup to deployment<br/>
         - Built responsive website pages using WordPress themes, templates, HTML, CSS, and JavaScript<br/>

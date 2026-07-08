@@ -122,7 +122,7 @@ const ProjectDetails = ({ project }: Props) => {
                                 {project.liveUrl && (
                                     <a
                                         href={project.liveUrl}
-                                        target="_blank"
+                                        target={project.liveUrl === '#' ? '' : '_blank'}
                                         rel="noreferrer noopener"
                                         className="hover:text-primary"
                                     >
