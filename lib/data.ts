@@ -58,6 +58,16 @@ export const MY_STACK = {
             icon: '/logo/laravel.svg',
         },
     ],
+    cms:[
+        {
+            name: 'Wordpress',
+            icon: '/logo/wordpress.svg',
+        },
+        {
+            name: 'Shopify',
+            icon: '/logo/shopify.svg',
+        },
+    ],
     database: [
         {
             name: 'MongoDB',
@@ -145,6 +155,7 @@ export const PROJECTS: IProject[] = [
         longThumbnail: '/projects/long/fanzine.png',
         images: [
             '/projects/images/fanzine.png',
+            '/projects/images/fanzine-1.png',
         ],
     },
     {
@@ -162,6 +173,7 @@ export const PROJECTS: IProject[] = [
         longThumbnail: '/projects/long/sport_skins.png',
         images: [
             '/projects/images/sport_skins.png',
+            '/projects/images/sport_skins-1.png',
         ],
         liveUrl: 'https://sportskins.uk',
         year: 2024,
@@ -173,6 +185,89 @@ export const PROJECTS: IProject[] = [
         - Designed and optimized MySQL database for competition and user management<br/>
         - Managed AWS cloud infrastructure and deployment pipeline<br/>
         - Implemented real-time game logic and scoring algorithms`,
+    },
+    {
+        title: 'AQL Tech Solutions',
+        slug: 'aql-tech-solutions',
+        techStack: [
+            'Wordpress',
+            'MySql',
+        ],
+        thumbnail: '/projects/thumbnail/aql-tech-solutions.png',
+        longThumbnail: '/projects/long/aql-tech-solutions.png',
+        images: [
+            '/projects/images/aql-tech-solutions.png',
+            '/projects/images/aql-tech-solutions-1.png',
+        ],
+        liveUrl: 'https://aqltechsolutions.com/',
+        year: 2023,
+        description: 'AQL Tech Solutions is a leading, global Semi Conductor company and we designed and developed their website. At code studio we believe your website is a mirror of your company and we design the website in accordance to you business model',
+        role: `As part of the Code Studio team, I:<br/>
+        - Developed and customized the WordPress website from setup to deployment<br/>
+        - Built responsive website pages using WordPress themes, templates, HTML, CSS, and JavaScript<br/>
+        - Customized WordPress theme functionality based on project requirements<br/>
+        - Integrated and configured plugins for forms, SEO, performance, security, and content management<br/>
+        - Created and managed custom post types, fields, menus, and dynamic website content<br/>
+        - Optimized website speed, responsiveness, and cross-browser compatibility<br/>
+        - Managed hosting, domain setup, deployment, backups, and ongoing website maintenance`,
+    },
+    {
+        title: 'AKDoc',
+        slug: 'akdoc',
+        techStack: [
+            'Wordpress',
+            'MySql',
+        ],
+        thumbnail: '/projects/thumbnail/akdoc.jpg',
+        longThumbnail: '/projects/long/akdoc.jpg',
+        images: [
+            '/projects/images/akdoc.jpg',
+            '/projects/images/akdoc-1.png',
+            '/projects/images/akdoc-2.jpg',
+            '/projects/images/akdoc-3.jpg',
+            '/projects/images/akdoc-4.jpg',
+        ],
+        liveUrl: 'https://aqltechsolutions.com/',
+        year: 2023,
+        description: 'AKDoc is a healthcare facility based in Atlanta, USA. The client had an existing website but wanted to upgrade their online presence with a more professional, more' +
+            ' user-friendly and better UI/UX based website. We developed their website to meet all the requirements and made them a satisfied client for all their future technology needs',
+        role: `As part of the Code Studio team, I:<br/>
+        - Developed and customized the WordPress website from setup to deployment<br/>
+        - Built responsive website pages using WordPress themes, templates, HTML, CSS, and JavaScript<br/>
+        - Customized WordPress theme functionality based on project requirements<br/>
+        - Integrated and configured plugins for forms, SEO, performance, security, and content management<br/>
+        - Created and managed custom post types, fields, menus, and dynamic website content<br/>
+        - Optimized website speed, responsiveness, and cross-browser compatibility<br/>
+        - Managed hosting, domain setup, deployment, backups, and ongoing website maintenance`,
+    },
+    {
+        title: 'The Tejori',
+        slug: 'the-tejori',
+        techStack: [
+            'Wordpress',
+            'MySql',
+        ],
+        thumbnail: '/projects/thumbnail/the-tejori.png',
+        longThumbnail: '/projects/long/the-tejori.png',
+        images: [
+            '/projects/images/the-tejori.png',
+            '/projects/images/the-tejori-1.png',
+            '/projects/images/the-tejori-2.png',
+            '/projects/images/the-tejori-3.png',
+        ],
+        liveUrl: 'https://aqltechsolutions.com/',
+        year: 2023,
+        description: 'AKDoc is a healthcare facility based in Atlanta, USA. The client had an existing website but wanted to upgrade their online presence with a more professional, more' +
+            ' user-friendly and better UI/UX based website. We developed their website to meet all the requirements and made them a satisfied client for all their future technology needs',
+        role: `As part of the Code Studio team, I:<br/>
+        - Developed and customized the WordPress website from setup to deployment<br/>
+        - Built responsive website pages using WordPress themes, templates, HTML, CSS, and JavaScript<br/>
+        - Customized WordPress theme functionality based on project requirements<br/>
+        - Integrated and configured the Dokan multivendor plugin to support vendor registration, product management, commissions, and marketplace functionality<br/>
+        - Integrated and configured plugins for forms, SEO, performance, security, and content management<br/>
+        - Created and managed custom post types, fields, menus, and dynamic website content<br/>
+        - Optimized website speed, responsiveness, and cross-browser compatibility<br/>
+        - Managed hosting, domain setup, deployment, backups, and ongoing website maintenance`,
     },
 ];
 

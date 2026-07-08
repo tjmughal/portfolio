@@ -56,11 +56,18 @@ const Preloader = () => {
             <p className="name-text flex text-[20vw] lg:text-[200px] font-anton text-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 leading-none overflow-hidden">
                 <span className="inline-block translate-y-full">T</span>
                 <span className="inline-block translate-y-full">A</span>
+                <span className="inline-block translate-y-full">L</span>
+                <span className="inline-block translate-y-full">H</span>
+                <span className="inline-block translate-y-full">A</span>
+                <span className="inline-block translate-y-full">&nbsp;</span>
                 <span className="inline-block translate-y-full">J</span>
+                <span className="inline-block translate-y-full">.</span>
+                <span className="inline-block translate-y-full">&nbsp;</span>
                 <span className="inline-block translate-y-full">M</span>
-                <span className="inline-block translate-y-full">I</span>
-                <span className="inline-block translate-y-full">R</span>
                 <span className="inline-block translate-y-full">U</span>
+                <span className="inline-block translate-y-full">G</span>
+                <span className="inline-block translate-y-full">H</span>
+                <span className="inline-block translate-y-full">A</span>
                 <span className="inline-block translate-y-full">L</span>
             </p>
         </div>
